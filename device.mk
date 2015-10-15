@@ -107,8 +107,8 @@ PRODUCT_PACKAGES += \
     libQWiFiSoftApCfg
 
 # Motorola
-#PRODUCT_PACKAGES += \
- #   charge_only_mode
+PRODUCT_PACKAGES += \
+    charge_only_mode
 
 # Misc
 PRODUCT_PACKAGES += \
