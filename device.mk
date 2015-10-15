@@ -107,8 +107,8 @@ PRODUCT_PACKAGES += \
     libQWiFiSoftApCfg
 
 # Motorola
-PRODUCT_PACKAGES += \
-    charge_only_mode
+#PRODUCT_PACKAGES += \
+ #   charge_only_mode
 
 # Misc
 PRODUCT_PACKAGES += \
@@ -152,8 +152,8 @@ PRODUCT_PACKAGES += \
     lights.msm8610
 
 # GPS
-PRODUCT_PACKAGES += \
-    gps.msm8610
+#PRODUCT_PACKAGES += \
+ #   gps.msm8610
 
 # CRDA
 PRODUCT_PACKAGES += \
