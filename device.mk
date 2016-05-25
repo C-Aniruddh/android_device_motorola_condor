@@ -39,5 +39,5 @@ DEVICE_PACKAGE_OVERLAYS := \
 $(call inherit-product, device/motorola/msm8610-common/msm8610.mk)
 
 # Doze
-PRODUCT_PACKAGES += \
-    MotoDoze
+#PRODUCT_PACKAGES += \
+#    MotoDoze

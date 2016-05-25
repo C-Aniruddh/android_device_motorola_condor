@@ -1,0 +1,43 @@
+[
+  {
+    "repository":  "krexus-caf/device_motorola_msm8610-common",
+    "target_path": "device/motorola/msm8610-common",
+    "branch": "caf"
+  },
+  {
+    "repository":  "CyanogenMod/android_kernel_motorola_msm8610",
+    "target_path": "kernel/motorola/msm8610"
+	"branch": "cm-13.0"
+  },
+  {
+    "repository":  "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch": "cm-13.0"
+  },
+  
+  {
+    "repository": "CyanogenMod/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch": "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+     "branch": "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio-caf/msm8974",
+    "branch": "cm-13.0-caf-8974"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_display",
+    "target_path": "hardware/qcom/display-caf/msm8974",
+    "branch": "cm-13.0-caf-8974"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_media",
+    "target_path": "hardware/qcom/media-caf/msm8974",
+    "branch": "cm-13.0-caf-8974"
+  }
+]
